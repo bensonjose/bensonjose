@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science and Neural Networks.**
 
-- 💬 Ask me about **Python, Artificial Intelligence**
+- 💬 Ask me about **Python, Artificial Intelligence.**
 
-- ⚡ Fun fact **Editing Videos is my Favourite Pastime and I've Youtube channel where i uplload my videos with about 8,000 Subscribers!!**
+- ⚡ Fun fact **Editing Videos is my Favourite Pastime and I've Youtube a channel, with about 8,000 Subscribers!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
